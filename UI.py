@@ -69,7 +69,7 @@ st.sidebar.info("""
 
 # Footer with developer info
 st.sidebar.markdown("""
-    **Developed by**: Vinit Limkar
-    **Email**: limkarvinit@gmail.com
-    **GitHub**: [Vinit Limkar](https://github.com/Vvl1232)
+    **Developed by**: Vinit Limkar  
+    **Email**: limkarvinit@gmail.com  
+    **GitHub**: [Vinit Limkar](https://github.com/Vvl1232)  
 """)
