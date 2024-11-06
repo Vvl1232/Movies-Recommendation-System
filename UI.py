@@ -41,7 +41,7 @@ def recommend(movie):
 
 # Streamlit web-app
 st.title("Movie Recommendation System")  # Title of the web app
-st.write("This is a simple movie recommendation system that recommends movies based on the input movie.")  # Description
+st.write("This is a simple movie recommendation system that recommends similar type of movies based on the input movie.")  # Description
 
 # Dropdown menu for selecting a movie
 selected_movie = st.selectbox("Search for a movie", data["title"].values)
